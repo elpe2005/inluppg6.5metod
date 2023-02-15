@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inluppg6.5metod", "inluppg6.5metod\inluppg6.5metod.csproj", "{1C03770F-0081-4462-AC2F-545F224C3F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C03770F-0081-4462-AC2F-545F224C3F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C03770F-0081-4462-AC2F-545F224C3F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C03770F-0081-4462-AC2F-545F224C3F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C03770F-0081-4462-AC2F-545F224C3F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79CE3322-BC20-431E-9A64-10F2593478D9}
+	EndGlobalSection
+EndGlobal
